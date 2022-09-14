@@ -35,5 +35,7 @@ calcular() : void{
 
 }
 
-//ao realizar um calculo e clicar em outro numero, a caixa de resultado deve apagar e aparecer apenas o numero clicado
-//e ao realizar um calculo e clicar em outra operação, a caixa de resultado deve manter o que estava e realizar a nova operação
+//obs1:ao realizar um calculo e clicar em outro numero, a caixa de resultado deve apagar e aparecer apenas o numero clicado.
+//obs2:e ao realizar um calculo e clicar em outra operação, a caixa de resultado deve continuar mantendo
+// o que já estava e realizar a nova operação.
+//obs3:seria interessante também usar o teclado para digitar os números a serem calculados.
